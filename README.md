@@ -1,2 +1,1 @@
-# centos7
-Centos 7
+CentOS Project
